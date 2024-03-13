@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:871799832562:android:96245ce3873a35f171756b",
         "android_client_info": {
-          "package_name": "com.oxchat.global"
+          "package_name": "com.oxchat.nostr"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "871799832562-m4uf7mqc6n667es999chdo370er8bi6k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.oxchat.global",
+            "package_name": "com.oxchat.nostr",
             "certificate_hash": "4e292bcf0e3ce99427f5efa5802d625643fcfa24"
           }
         },

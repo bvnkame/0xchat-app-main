@@ -32,7 +32,7 @@ android {
   buildFeatures {
     buildConfig true
   }
-  namespace 'com.oxchat.global'
+  namespace 'com.oxchat.nostr'
   compileSdk 34
   buildToolsVersion "34.0.0"
   ndkVersion "25.1.8937393"
@@ -41,7 +41,7 @@ android {
   def version = parsePubspecVersion()
   def versionParts = version.split("\\+")
   defaultConfig {
-    applicationId "com.oxchat.global"
+    applicationId "com.oxchat.nostr"
     minSdk 24
     targetSdk 34
     multiDexEnabled true

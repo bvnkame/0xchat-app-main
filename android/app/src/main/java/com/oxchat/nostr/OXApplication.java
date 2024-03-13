@@ -1,4 +1,4 @@
-package com.oxchat.global;
+package com.oxchat.nostr;
 
 import androidx.multidex.MultiDexApplication;
 
