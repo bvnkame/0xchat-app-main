@@ -58,7 +58,7 @@ checkoutBranch(){
 
 
 checkoutBranchByAll(){
-    checkoutBranch ${mainPath} $1
+    # checkoutBranch ${mainPath} $1
     checkoutBranch ${baseFrameworkPath} $2
     checkoutBranch ${businessModulesPath} $3
     checkoutBranch ${oxchatCorePath}
